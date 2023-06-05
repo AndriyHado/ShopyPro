@@ -9,7 +9,7 @@
         <h6 class="section-title text-center text-primary text-uppercase">{{ __('ui.nostri') }}</h6>
         <h1 class="mb-5">{{ __('ui.esplora-i') }}</h1>
     </div>
-    <div class="row g-4">
+    <div class="row g-4"> 
         {{-- @forelse ($announcements as $announcement)
             <div class="col-lg-12 col-12 " data-aos="fade-right" data-aos-duration="3000">
                 
